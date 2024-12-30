@@ -86,10 +86,3 @@ The system outputs:
 - Improved probability estimation for unknown words
 - More robust smoothing techniques
 
-## License
-
-[Include your chosen license here]
-
-## Contributing
-
-[Include contribution guidelines if you want to accept contributions]
